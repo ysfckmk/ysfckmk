@@ -1,6 +1,6 @@
 
 
-*** Uipath ***
+uipath & javascript
 
 - 👋 Hi, I’m @ysfckmk
 - 👀 I’m interested in ...
