@@ -1,5 +1,4 @@
 # 💫 About Me:
-As an experienced RPA Developer, I have expertise in developing automation tools using C# and Java. During my free time, I enjoy building automation tools and applications to further enhance my knowledge and skills. With a strong foundation in JavaScript, Python, Java, and SQL, I possess the necessary skills to create effective and efficient automation solutions. I am always eager to learn and explore new technologies to improve my abilities and contribute value to any project I work on. In addition, I closely follow artificial intelligence technologies and utilize them in my projects.
 
 
 ## 🌐 Socials:
